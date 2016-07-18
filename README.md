@@ -1,4 +1,4 @@
-# Intro
+# How to
 
 Add the execute permissions:
 
